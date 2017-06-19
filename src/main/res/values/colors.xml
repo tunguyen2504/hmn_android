@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ff7843</color>
+    <color name="colorAccent">#ff7843</color>
+    <color name="colorSearchBar">#a3d6d6d6</color>
+    <color name="colorSearchEditText">#000000</color>
+    <color name="colorSearchHint">#585858</color>
+    <color name="colorListViewParent">#ffffff</color>
+    <color name="colorRadioGroup">#00ffffff</color>
+</resources>

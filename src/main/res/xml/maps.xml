@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps xmlns:android="http://schemas.android.com/apk/res/android">
+	<map name="map_2000">
+		<area shape="circle" coords="1293.925, 1959.0825, 21" name="Line 1" id="@+id/line1s" />
+		<area shape="circle" coords="1827.145, 1376.865, 21" name="Line 1" id="@+id/line1e" />
+		<area shape="circle" coords="1051.6075, 35.3475, 21" name="Line 2" id="@+id/line2s" />
+		<area shape="circle" coords="1251.765, 1363.9925, 21" name="Line 2" id="@+id/line2e" />
+		<area shape="circle" coords="1146.645, 1051.2475, 21" name="Line 2A" id="@+id/line2As" />
+		<area shape="circle" coords="757.645, 1719.7425, 21" name="Line 2A" id="@+id/line2Ae" />
+		<area shape="circle" coords="146.8175, 888.335, 21" name="Line 3" id="@+id/line3s" />
+		<area shape="circle" coords="1446.6325, 1601.335, 21" name="Line 3" id="@+id/line3e" />
+		<area shape="circle" coords="624.08, 620.9925, 21" name="Line 4" id="@+id/line4s" />
+		<area shape="circle" coords="351.4, 738.7, 21" name="Line 4" id="@+id/line4e" />
+		<area shape="circle" coords="66.335, 812.425, 21" name="Line 5" id="@+id/line5s" />
+		<area shape="circle" coords="1082.9075, 992.8825, 21" name="Line 5" id="@+id/line5e" />
+		<area shape="circle" coords="1006.4675, 35.3475, 21" name="Line 6" id="@+id/line6s" />
+		<area shape="circle" coords="1333.74, 1839.915, 21" name="Line 6" id="@+id/line6e" />
+		<area shape="circle" coords="696.475, 236.9525, 21" name="Line 7" id="@+id/line7s" />
+		<area shape="circle" coords="926.16, 1880.6175, 21" name="Line 7" id="@+id/line7e" />
+		<area shape="circle" coords="450.5125, 1213.89, 21" name="Line 8" id="@+id/line8s" />
+		<area shape="circle" coords="1790.335, 1443.055, 21" name="Line 8" id="@+id/line8e" />
+
+		<area shape="rect" coords="1284.52, 1906.3675, 1307.27, 1922.6175" name="Ngọc Hồi" id="@+id/st1" />
+		<area shape="rect" coords="1258.135, 1831.3675, 1307.27, 1847.6175" name="Vĩnh Quỳnh" id="@+id/st2" />
+		<area shape="rect" coords="1284.52, 1711.6175, 1308.395, 1727.8675" name="Văn Điển" id="@+id/st3" />
+		<area shape="rect" coords="1287.7075, 1597.8675, 1310.4575, 1614.1175" name="Hoàng Liệt" id="@+id/st4" />
+		<area shape="rect" coords="1285.645, 1448.1175, 1308.395, 1464.3675" name="Giáp Bát" id="@+id/st5" />
+		<area shape="rect" coords="1285.645, 1347.6175, 1308.395, 1363.9925" name="Phương Liệt" id="@+id/st6" />
+		<area shape="rect" coords="1285.645, 1253.6175, 1308.395, 1269.8675" name="Bạch Mai" id="@+id/st7" />
+		<area shape="rect" coords="1273.145, 1181.1175, 1321.34, 1197.3675" name="Cv THống Nhất" id="@+id/st8" />
+		<area shape="rect" coords="1273.0275, 1102.365, 1320.77, 1118.6175" name="Ga Hà Nội" id="@+id/st9" />
+		<area shape="rect" coords="1287.02, 1030.25, 1309.77, 1046.5" name="Phùng Hưng" id="@+id/st10" />
+		<area shape="rect" coords="1302.09, 982.115, 1351.02, 998.365" name="Hàng Đậu" id="@+id/st11" />
+		<area shape="rect" coords="1481.02, 949.9925, 1503.77, 966.2425" name="Long Biên Nam" id="@+id/st12" />
+		<area shape="rect" coords="1578.275, 949.9925, 1601.025, 966.2425" name="Gia Lâm" id="@+id/st13" />
+		<area shape="rect" coords="1658.945, 1030.25, 1707.0825, 1046.5" name="Gia Thụy" id="@+id/st14" />
+		<area shape="rect" coords="1657.23, 1105.0075, 1705.02, 1121.2575" name="Phúc Đồng" id="@+id/st15" />
+		<area shape="rect" coords="1741.835, 1105.0075, 1764.585, 1121.2575" name="Sài Đồng" id="@+id/st16" />
+		<area shape="rect" coords="1741.835, 1180.8675, 1764.585, 1197.1175" name="Thạch Bàn" id="@+id/st17" />
+		<area shape="rect" coords="1741.835, 1256.2575, 1764.585, 1272.5075" name="Thạch Cầu" id="@+id/st18" />
+		<area shape="rect" coords="1741.835, 1331.235, 1764.585, 1347.485" name="Trâu Quỳ" id="@+id/st19" />
+		<area shape="rect" coords="1741.835, 1408.6825, 1764.585, 1443.055" name="Dương Xá" id="@+id/st20" />
+		<area shape="rect" coords="1816.085, 1408.6825, 1838.835, 1424.9325" name="Như Quỳnh" id="@+id/st21" />
+		<area shape="rect" coords="1008.4375, 61.9575, 1057.2125, 78.2075" name="Nội Bài" id="@+id/st22" />
+		<area shape="rect" coords="1133.7775, 61.9575, 1156.5275, 78.2075" name="Thái Phù" id="@+id/st23" />
+		<area shape="rect" coords="1133.7775, 174.7475, 1156.5275, 190.9975" name="Thôn Đông" id="@+id/st24" />
+		<area shape="rect" coords="1133.7775, 275.31, 1156.5275, 291.56" name="Đại Bằng" id="@+id/st25" />
+		<area shape="rect" coords="1133.7775, 370.9525, 1156.5275, 387.2025" name="Sơn Du" id="@+id/st26" />
+		<area shape="rect" coords="1133.7775, 485.645, 1156.5275, 501.895" name="Trung Oai" id="@+id/st27" />
+		<area shape="rect" coords="1133.7775, 574.94, 1156.5275, 591.19" name="Lê Pháp" id="@+id/st28" />
+		<area shape="rect" coords="1084.275, 628.745, 1107.025, 644.995" name="VĨnh Ngọc" id="@+id/st29" />
+		<area shape="rect" coords="1034.46, 679.935, 1057.21, 696.185" name="Ngọc Giang" id="@+id/st30" />
+		<area shape="rect" coords="980.33, 723.515, 1003.08, 739.765" name="Nhật Tân" id="@+id/st31" />
+		<area shape="rect" coords="980.3275, 780.295, 1003.0775, 796.545" name="Nam Thăng Long" id="@+id/st32" />
+		<area shape="rect" coords="980.3275, 844.0025, 1003.0775, 860.2525" name="Ngoại Giao Đoàn" id="@+id/st33" />
+		<area shape="rect" coords="980.3275, 901.21, 1003.0775, 917.46" name="Tây Hồ Tây" id="@+id/st34" />
+		<area shape="rect" coords="980.3275, 952.6325, 1003.0775, 968.8825" name="Bưởi" id="@+id/st35" />
+		<area shape="rect" coords="1039.4025, 952.635, 1087.525, 968.8825" name="Quần Ngựa" id="@+id/st36" />
+		<area shape="rect" coords="1135.27, 952.6325, 1158.02, 968.8825" name="Bách Thảo" id="@+id/st37" />
+		<area shape="rect" coords="1208.0175, 952.6325, 1230.7675, 968.8825" name="Hồ Tây" id="@+id/st38" />
+		<area shape="rect" coords="1360.2475, 1030.25, 1382.9975, 1046.5" name="Hồ Hoàn Kiếm" id="@+id/st39" />
+		<area shape="rect" coords="1348.16, 1102.365, 1395.65, 1118.6175" name="Trần Hưng Đạo" id="@+id/st40" />
+		<area shape="rect" coords="1360.2475, 1180.7475, 1382.9975, 1196.9975" name="Đại Cồ Việt" id="@+id/st41" />
+		<area shape="rect" coords="1208.0175, 1217.8075, 1230.7675, 1234.0575" name="Phạm Ngọc Thạch" id="@+id/st42" />
+		<area shape="rect" coords="1208.0175, 1300.4325, 1230.7675, 1316.6825" name="Định Công" id="@+id/st43" />
+		<area shape="rect" coords="1134.375, 1363.9925, 1182.6525, 1380.2425" name="Thượng Đình" id="@+id/st44" />
+		<area shape="rect" coords="1122.185, 1102.365, 1170.895, 1118.6175" name="Cát Linh" id="@+id/st45" />
+		<area shape="rect" coords="1134.375, 1163.125, 1157.125, 1179.25" name="La Thành" id="@+id/st46" />
+		<area shape="rect" coords="1134.375, 1231.8675, 1157.125, 1248.1175" name="Thái Hà" id="@+id/st47" />
+		<area shape="rect" coords="1134.375, 1300.4325, 1157.125, 1316.6825" name="Láng" id="@+id/st48" />
+		<area shape="rect" coords="1077.645, 1458.885, 1125.765, 1475.135" name="Vành đai 3" id="@+id/st49" />
+		<area shape="rect" coords="1037.395, 1507.365, 1060.145, 1523.615" name="Thanh Xuân 3" id="@+id/st50" />
+		<area shape="rect" coords="987.525, 1558.6, 1010.275, 1574.85" name="Hà Đông" id="@+id/st51" />
+		<area shape="rect" coords="939.395, 1605.49, 962.145, 1621.74" name="BX Hà Đông" id="@+id/st52" />
+		<area shape="rect" coords="886.945, 1655.365, 909.695, 1671.615" name="La Khê" id="@+id/st53" />
+		<area shape="rect" coords="849.24, 1695.765, 871.99, 1712.015" name="Văn Khê" id="@+id/st54" />
+		<area shape="rect" coords="782.895, 1768.365, 805.645, 1784.615" name="BX Hà Đông mới" id="@+id/st55" />
+		<area shape="rect" coords="183.2325, 880.21, 205.9825, 896.46" name="Trôi" id="@+id/st56" />
+		<area shape="rect" coords="267.1325, 880.21, 289.8825, 896.46" name="Phùng" id="@+id/st57" />
+		<area shape="rect" coords="353.7175, 880.21, 376.4675, 896.46" name="Đức Thượng" id="@+id/st58" />
+		<area shape="rect" coords="439.1375, 880.21, 461.8875, 896.46" name="Tân Tây Đô" id="@+id/st59" />
+		<area shape="rect" coords="529.6525, 870.2125, 552.5075, 904.585" name="Giang Xá" id="@+id/st60" />
+		<area shape="rect" coords="595.545, 880.21, 618.295, 896.46" name="Nhổn" id="@+id/st61" />
+		<area shape="rect" coords="630.88, 902.85, 654.63, 920.1" name="Minh Khai" id="@+id/st62" />
+		<area shape="poly" coords="667.38, 943.51, 667.38, 977.885, 690.13, 977.885, 693.25, 970.0925, 716, 970.0925,
+		716, 953.8425, 696.71, 953.3725, 690.13, 943.51, 667.38, 943.51" name="Phú Diễn" id="@+id/st63" />
+		<area shape="rect" coords="727.835, 1000.02, 750.585, 1016.27" name="Cầu Diễn" id="@+id/st64" />
+		<area shape="rect" coords="782.13, 1049.725, 804.88, 1065.975" name="Lê Đức Thọ" id="@+id/st65" />
+		<area shape="rect" coords="832.38, 1094.46, 855.13, 1129.385" name="ĐHQG 2" id="@+id/st66" />
+		<area shape="rect" coords="907.525, 1093.8, 930.275, 1129.3825" name="Chùa Hà" id="@+id/st67" />
+		<area shape="rect" coords="982.5375, 1105.0075, 1005.2875, 1121.2575" name="Cầu Giấy" id="@+id/st68" />
+		<area shape="rect" coords="1060.1575, 1104.125, 1082.9075, 1120.25" name="Kim Mã" id="@+id/st69" />
+		<area shape="rect" coords="1210.295, 1102.365, 1233.045, 1118.615" name="Văn Miếu" id="@+id/st70" />
+		<area shape="rect" coords="1436.6325, 1181.5025, 1459.3825, 1197.7525" name="Lò Đúc" id="@+id/st71" />
+		<area shape="rect" coords="1436.6325, 1253.6175, 1459.3825, 1269.8675" name="Đông Mác" id="@+id/st72" />
+		<area shape="rect" coords="1437.3825, 1333.0225, 1460.1325, 1349.2725" name="Thanh Nhàn" id="@+id/st73" />
+		<area shape="rect" coords="1423.8825, 1407.96, 1473.48, 1424.21" name="Times City" id="@+id/st74" />
+		<area shape="rect" coords="1436.6325, 1482.71, 1459.3825, 1498.96" name="Tân Mai" id="@+id/st75" />
+		<area shape="rect" coords="1423.385, 1558.6025, 1471.5075, 1574.8525" name="Yên Sở" id="@+id/st76" />
+		<area shape="rect" coords="671.34, 614.5175, 719.225, 630.7675" name="KĐT Mê Linh" id="@+id/st77" />
+		<area shape="rect" coords="756.875, 614.5175, 779.625, 630.7675" name="Hạ Lôi" id="@+id/st78" />
+		<area shape="rect" coords="833.245, 614.5175, 855.995, 630.7675" name="Tiền Phong" id="@+id/st79" />
+		<area shape="rect" coords="884.535, 596.6, 932.285, 630.7675" name="KCN Thăng Long" id="@+id/st80" />
+		<area shape="rect" coords="982.9075, 614.5175, 1005.6575, 630.7675" name="Võ Văn Kiệt" id="@+id/st81" />
+		<area shape="rect" coords="1053.0625, 614.5175, 1075.8125, 630.7675" name="Kim Nô" id="@+id/st82" />
+		<area shape="rect" coords="1172.1875, 614.5175, 1194.9375, 630.7675" name="Kim Nô 2" id="@+id/st83" />
+		<area shape="rect" coords="1265.4025, 614.5175, 1288.1525, 630.7675" name="Vân Trì" id="@+id/st84" />
+		<area shape="rect" coords="1373.8775, 647.155, 1396.6275, 663.405" name="Võ Nguyên Giáp" id="@+id/st85" />
+		<area shape="rect" coords="1423.545, 697.99, 1446.295, 714.24" name="Trại Cầm" id="@+id/st86" />
+		<area shape="rect" coords="1468.9825, 747.9875, 1491.7325, 764.2325" name="Văn Thượng" id="@+id/st87" />
+		<area shape="rect" coords="1524.65, 798.6525, 1547.4, 814.9025" name="Đông Hội" id="@+id/st88" />
+		<area shape="rect" coords="1577.8325, 850.75, 1600.5825, 867.125" name="Hội Phụ" id="@+id/st89" />
+		<area shape="rect" coords="1620.335, 899.7025, 1643.085, 915.7025" name="Đông Trù" id="@+id/st90" />
+		<area shape="rect" coords="1661.5675, 940.8675, 1684.3175, 957.1175" name="Thượng Thanh" id="@+id/st91" />
+		<area shape="rect" coords="1663.9875, 1182.685, 1686.7375, 1198.935" name="KTT  981" id="@+id/st92" />
+		<area shape="rect" coords="1663.9875, 1258.9, 1686.7375, 1275.15" name="KCN Sài Đồng B" id="@+id/st93" />
+		<area shape="rect" coords="1663.9875, 1329.185, 1686.7375, 1345.435" name="Bát Khối" id="@+id/st94" />
+		<area shape="rect" coords="1663.9875, 1406.285, 1686.7375, 1422.535" name="Thống Nhất" id="@+id/st95" />
+		<area shape="rect" coords="1562.73, 1406.285, 1585.48, 1422.535" name="Nguyễn Khoái" id="@+id/st96" />
+		<area shape="rect" coords="1361.5625, 1407.185, 1384.3125, 1423.435" name="Ngõ Gốc Đề" id="@+id/st97" />
+		<area shape="rect" coords="1297.02, 1407.185, 1319.77, 1423.435" name="Ngã Tư Vọng" id="@+id/st98" />
+		<area shape="rect" coords="1206.1775, 1407.1825, 1228.9275, 1423.4325" name="Tôn Thất Tùng" id="@+id/st99" />
+		<area shape="rect" coords="1133.56, 1407.1825, 1156.31, 1423.4325" name="ĐHQG 1" id="@+id/st100" />
+		<area shape="rect" coords="1071.5325, 1350.385, 1094.2825, 1366.635" name="Láng Hạ" id="@+id/st101" />
+		<area shape="rect" coords="1020.465, 1276.715, 1043.215, 1311.0025" name="Trung Hòa" id="@+id/st102" />
+		<area shape="rect" coords="958.7775, 1234.5075, 981.5275, 1250.7575" name="Yên Hòa" id="@+id/st103" />
+		<area shape="rect" coords="907.525, 1178.15, 930.275, 1194.4" name="Cv Cầu Giấy" id="@+id/st104" />
+		<area shape="rect" coords="882.3275, 953.845, 930.6925, 969.6225" name="KTT Nghĩa Tân" id="@+id/st105" />
+		<area shape="rect" coords="907.9425, 886.815, 930.6925, 903.065" name="Trần Cung" id="@+id/st106" />
+		<area shape="rect" coords="907.9425, 823.5075, 930.6925, 839.7575" name="Cổ Nhuế" id="@+id/st107" />
+		<area shape="rect" coords="870.4425, 801.66, 893.1925, 817.91" name="ĐH Mỏ" id="@+id/st108" />
+		<area shape="rect" coords="788.2775, 800.8425, 811.0275, 817.0925" name="Liên Mạc" id="@+id/st109" />
+		<area shape="rect" coords="680.9425, 801.66, 703.6925, 817.91" name="Đại Cát" id="@+id/st110" />
+		<area shape="rect" coords="604.925, 801.66, 627.675, 817.91" name="Thượng Cát" id="@+id/st111" />
+		<area shape="rect" coords="517.2775, 766.8425, 566.1225, 783.0925" name="Hạ Trì" id="@+id/st112" />
+		<area shape="rect" coords="460.635, 729.3475, 483.385, 745.5975" name="Thôn Trung" id="@+id/st113" />
+		<area shape="rect" coords="387.11, 729.3475, 409.86, 745.5975" name="Liên Hà" id="@+id/st114" />
+		<area shape="rect" coords="1020.78, 1062.365, 1043.53, 1078.615" name="Liễu Giai" id="@+id/st115" />
+		<area shape="rect" coords="1020.465, 1178.15, 1043.215, 1194.4" name="Hồ Ngọc Khánh" id="@+id/st116" />
+		<area shape="rect" coords="953.0225, 1309.7625, 1001.1425, 1348.5125" name="BigC Thăng Long" id="@+id/st117" />
+		<area shape="rect" coords="879.5325, 1388.955, 902.2825, 1405.205" name="Mễ Trì" id="@+id/st118" />
+		<area shape="rect" coords="752.2575, 1390.8275, 775.0075, 1407.0775" name="Phú Đô" id="@+id/st119" />
+		<area shape="rect" coords="614.9075, 1390.8275, 637.6575, 1407.0775" name="Đại Mỗ" id="@+id/st120" />
+		<area shape="rect" coords="470.0125, 1390.8275, 492.7625, 1407.0775" name="KĐT Splendora" id="@+id/st121" />
+		<area shape="rect" coords="363.095, 1390.8275, 385.845, 1407.0775" name="Bắc An Khánh" id="@+id/st122" />
+		<area shape="rect" coords="270.1525, 1390.8275, 292.9025, 1407.0775" name="Song Phương" id="@+id/st123" />
+		<area shape="rect" coords="198.9, 1313.0725, 221.65, 1329.3225" name="Sài Sơn" id="@+id/st124" />
+		<area shape="rect" coords="133.5275, 1246.0175, 156.2775, 1262.2675" name="Ngô Sài" id="@+id/st125" />
+		<area shape="rect" coords="57.525, 1165.6425, 80.275, 1181.8925" name="Hòa Lạc" id="@+id/st126" />
+		<area shape="rect" coords="57.525, 1076.8525, 80.275, 1093.1025" name="Đồng Mô" id="@+id/st127" />
+		<area shape="rect" coords="57.525, 990.3525, 80.275, 1006.6025" name="Yên Bài" id="@+id/st128" />
+		<area shape="rect" coords="57.525, 882.8525, 80.275, 899.1025" name="Ba vì" id="@+id/st129" />
+		<area shape="rect" coords="904.92, 61.9575, 927.67, 78.2075" name="Phú Cường" id="@+id/st130" />
+		<area shape="rect" coords="904.92, 143.9625, 927.67, 160.2125" name="KCN Quang Minh" id="@+id/st131" />
+		<area shape="rect" coords="904.92, 225.955, 927.67, 242.205" name="Thôn Vệ" id="@+id/st132" />
+		<area shape="rect" coords="904.92, 306.7025, 927.67, 322.9525" name="Nam Hồng" id="@+id/st133" />
+		<area shape="rect" coords="904.92, 390.735, 927.67, 406.985" name="Hồ Vân Trì" id="@+id/st134" />
+		<area shape="rect" coords="904.92, 458.9625, 927.67, 475.2125" name="Thôn Nhuế" id="@+id/st135" />
+		<area shape="rect" coords="904.92, 526.46, 927.67, 542.71" name="Kim Chung" id="@+id/st136" />
+		<area shape="rect" coords="907.0775, 658.1575, 929.17, 672.71" name="Hải Bối" id="@+id/st137" />
+		<area shape="rect" coords="906.42, 700.63, 929.17, 716.88" name="Nhật Tảo" id="@+id/st138" />
+		<area shape="rect" coords="888.91, 742.8075, 911.66, 759.0575" name="Tân Xuân" id="@+id/st139" />
+		<area shape="rect" coords="851.83, 780.8475, 874.58, 797.0975" name="Xuân ĐỈnh" id="@+id/st140" />
+		<area shape="rect" coords="788.2775, 840.125, 811.0275, 856.375" name="Cv Hòa Bình" id="@+id/st141" />
+		<area shape="rect" coords="738.065, 895.725, 760.815, 911.975" name="Thôn Trù 2" id="@+id/st142" />
+		<area shape="rect" coords="678.755, 1071.46, 701.505, 1087.71" name="Mai Dịch" id="@+id/st143" />
+		<area shape="rect" coords="679.045, 1182.125, 701.82, 1198.375" name="Xuân Phương" id="@+id/st144" />
+		<area shape="rect" coords="679.045, 1296.125, 701.82, 1312.375" name="Mỹ Đình" id="@+id/st145" />
+		<area shape="rect" coords="681.665, 1400.8175, 704.415, 1417.0675" name="Tây Mỗ" id="@+id/st146" />
+		<area shape="rect" coords="681.4325, 1509.93, 704.07, 1526.3375" name="Chùa Văn" id="@+id/st147" />
+		<area shape="rect" coords="682.085, 1615.7925, 704.835, 1632.0425" name="Dương Nội" id="@+id/st148" />
+		<area shape="rect" coords="682.42, 1724.2575, 705.17, 1740.5075" name="La Phù" id="@+id/st149" />
+		<area shape="rect" coords="681.405, 1831.3675, 704.155, 1847.6175" name="La Tinh" id="@+id/st150" />
+		<area shape="rect" coords="763.3425, 1831.3675, 786.0175, 1847.6175" name="Yên Lộ" id="@+id/st151" />
+		<area shape="rect" coords="836.85, 1831.3675, 859.6, 1847.6175" name="Ba La" id="@+id/st152" />
+		<area shape="rect" coords="914.785, 1813.245, 937.535, 1847.6175" name="Ga Hà Đông" id="@+id/st153" />
+		<area shape="rect" coords="986.51, 1831.3675, 1009.26, 1847.6175" name="Phú Lương" id="@+id/st154" />
+		<area shape="rect" coords="1056.5275, 1831.3675, 1079.2775, 1847.6175" name="Kiến Hưng" id="@+id/st155" />
+		<area shape="rect" coords="1120.0725, 1831.3675, 1142.8225, 1847.6175" name="Cầu Sắt" id="@+id/st156" />
+		<area shape="rect" coords="1188.39, 1831.3675, 1211.14, 1847.6175" name="Tả Thanh Oai" id="@+id/st157" />
+		<area shape="rect" coords="680.9425, 301.325, 703.6925, 317.575" name="Kim Tiến" id="@+id/st158" />
+		<area shape="rect" coords="680.54, 370.7025, 703.29, 386.9525" name="Bảo Tháp" id="@+id/st159" />
+		<area shape="rect" coords="680.54, 432.825, 703.29, 449.075" name="Phú Trì" id="@+id/st160" />
+		<area shape="rect" coords="680.54, 488.2875, 703.29, 504.5375" name="Yên Vinh" id="@+id/st161" />
+		<area shape="rect" coords="680.54, 552.8225, 703.29, 569.0725" name="Đại Thịnh" id="@+id/st162" />
+		<area shape="rect" coords="600.3075, 696.6, 623.0575, 712.85" name="Thường Lệ" id="@+id/st163" />
+		<area shape="rect" coords="528.6525, 819.7825, 551.4025, 836.0325" name="Tây Tựu" id="@+id/st164" />
+		<area shape="rect" coords="528.9025, 956.015, 551.4025, 990.5225" name="Lưu Xá" id="@+id/st165" />
+		<area shape="rect" coords="528.6525, 1070.4025, 551.4025, 1086.5775" name="Lũng Kênh" id="@+id/st166" />
+		<area shape="rect" coords="528.6525, 1182.4525, 551.4025, 1198.7025" name="Yên Bệ" id="@+id/st167" />
+		<area shape="rect" coords="528.6525, 1296.325, 551.4025, 1312.575" name="Lại Yên" id="@+id/st168" />
+		<area shape="rect" coords="528.6525, 1403.325, 551.4025, 1419.575" name="Yên Lũng" id="@+id/st169" />
+		<area shape="rect" coords="528.6525, 1472.6575, 551.4025, 1488.9075" name="An Thọ" id="@+id/st170" />
+		<area shape="rect" coords="619.935, 1472.595, 644.935, 1488.845" name="Nam An Khánh" id="@+id/st171" />
+		<area shape="rect" coords="712.935, 1472.595, 735.685, 1488.845" name="Thiên Đường Bảo Sơn" id="@+id/st172" />
+		<area shape="rect" coords="763.5175, 1534.3225, 786.2675, 1550.5725" name="La Dương" id="@+id/st173" />
+		<area shape="rect" coords="763.5175, 1604.075, 786.2675, 1620.325" name="La Nội" id="@+id/st174" />
+		<area shape="rect" coords="763.5175, 1676.5, 786.2675, 1692.75" name="KĐT An Hưng" id="@+id/st175" />
+		<area shape="rect" coords="858.425, 1768.365, 881.175, 1784.615" name="KĐT Văn La" id="@+id/st176" />
+		<area shape="rect" coords="442.3475, 1168.2825, 465.0975, 1184.5325" name="Sơn Đồng" id="@+id/st177" />
+		<area shape="rect" coords="442.3475, 1102.2825, 465.0975, 1118.5325" name="Trại Giá" id="@+id/st178" />
+		<area shape="rect" coords="442.3475, 1024.3525, 465.0975, 1040.6025" name="Cát Quế" id="@+id/st179" />
+		<area shape="rect" coords="442.3475, 956.015, 465.0975, 972.265" name="Cao Xá Thượng" id="@+id/st180" />
+		<area shape="rect" coords="606.7225, 955.275, 629.4725, 971.525" name="Phương Canh" id="@+id/st181" />
+		<area shape="rect" coords="755.53, 953.8425, 778.28, 970.0925" name="Doãn Kế Thiện" id="@+id/st182" />
+		<area shape="rect" coords="832.38, 953.8425, 855.13, 970.0925" name="ĐH Điện Lực" id="@+id/st183" />
+		<area shape="rect" coords="832.38, 1201.925, 855.13, 1218.175" name="Tôn Thất Thuyết" id="@+id/st184" />
+		<area shape="rect" coords="882.525, 1276.6325, 930.275, 1292.8825" name="Dương Đình Nghệ" id="@+id/st185" />
+		<area shape="rect" coords="1020.465, 1391.595, 1043.215, 1407.845" name="Lê Văn Lương" id="@+id/st186" />
+		<area shape="rect" coords="1144.935, 1515.49, 1167.685, 1531.74" name="Kim Giang" id="@+id/st187" />
+		<area shape="rect" coords="1192.75, 1558.6025, 1215.5, 1574.8525" name="ĐH Thăng Long" id="@+id/st188" />
+		<area shape="rect" coords="1256.515, 1558.6025, 1279.265, 1574.8525" name="Đại Kim" id="@+id/st189" />
+		<area shape="rect" coords="1336.1925, 1558.6025, 1358.9425, 1574.8525" name="KĐT Linh Đàm" id="@+id/st190" />
+		<area shape="rect" coords="1562.73, 1558.6025, 1585.48, 1574.8525" name="KĐT Yên Duyên" id="@+id/st191" />
+		<area shape="rect" coords="1663.9875, 1558.6025, 1686.7375, 1574.8525" name="Thúy Lĩnh" id="@+id/st192" />
+		<area shape="rect" coords="1737.2175, 1558.6025, 1759.8525, 1574.8525" name="KĐT Ecopark" id="@+id/st193" />
+		<area shape="rect" coords="1737.2175, 1483.22, 1759.9675, 1499.47" name="HV Nông Nghiệp" id="@+id/st194" />
+	</map>
+</maps>
